@@ -1,0 +1,47 @@
+.chart-hed {
+  font-family: "Nunito Sans", Arial, sans-serif;
+  font-size: 21px;
+  line-height: 22px;
+  font-weight: 600;
+  color: #333333;
+  padding-top: 20px;
+}
+
+.chart-descriptor {
+  font-family: "Nunito Sans", Arial, sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  color: #333333;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.column {
+width: 600px;
+max-width: 95vw;
+margin-left: auto;
+margin-right: auto;
+}
+
+a:link {
+font-family: "Nunito Sans", Arial, sans-serif;
+color: rgb(0, 136, 204);
+background-color: transparent;
+text-decoration: none;
+}
+
+.chart-note {
+  font-family: "Nunito Sans", Arial, sans-serif;
+  font-size: 13px;
+  line-height: 15px;
+  font-weight: 500;
+  color: #6b6c6d;
+}
+
+.chart-source {
+  font-family: "Nunito Sans", Arial, sans-serif;
+  font-size: 13px;
+  line-height: 3px;
+  font-weight: 500;
+  color: #6b6c6d;
+}
